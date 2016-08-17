@@ -6,4 +6,5 @@ def fib(max):
 				n=n+1
 
 fib(6)
+fib(7)
 
